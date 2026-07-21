@@ -2,7 +2,7 @@
 
 광고인 권용욱은 11년 경력의 브랜드 마케터다. 6개 광고대행사를 거치며 자동차, 가전, FMCG, 게임 등 다양한 카테고리에서 IMC 캠페인과 브랜드 전략을 열정적으로 기획·실행해왔다. 현재 Publicis Groupe Korea에서 Director of Digital Communication으로 재직 중이다.
 
-🔗 포트폴리오 전체 보기: [광고인 권용욱 Portfolio](https://kyw9518-dev.github.io/AE_Kwonyongwook/%EA%B4%91%EA%B3%A0%EC%9D%B8_%EA%B6%8C%EC%9A%A9%EC%9A%B1_portfolio)
+🔗 포트폴리오 전체 보기: [광고인 권용욱 Portfolio](https://enthusiast-marketing.github.io/AE_Kwonyongwook/)
 ✍️ Brunch: https://brunch.co.kr/@woogake2
 💼 LinkedIn: https://www.linkedin.com/in/yongwook-kwon-16a067140/
 🎥 인터뷰 영상: [HS애드人터뷰 — 광고인 권용욱](https://youtu.be/O_UBxVPLqjA)
