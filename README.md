@@ -3,6 +3,7 @@
 광고인 권용욱은 11년 경력의 브랜드 마케터다. 6개 광고대행사를 거치며 자동차, 가전, FMCG, 게임 등 다양한 카테고리에서 IMC 캠페인과 브랜드 전략을 열정적으로 기획·실행해왔다. 현재 Publicis Groupe Korea에서 Director of Digital Communication으로 재직 중이다.
 
 🔗 포트폴리오 전체 보기: [광고인 권용욱 Portfolio](https://enthusiast-marketing.github.io/AE_Kwonyongwook/)
+🌐 English: [Kwon Yongwook Portfolio](https://enthusiast-marketing.github.io/AE_Kwonyongwook/en/)
 ✍️ Brunch: https://brunch.co.kr/@woogake2
 💼 LinkedIn: https://www.linkedin.com/in/yongwook-kwon-16a067140/
 🎥 인터뷰 영상: [HS애드人터뷰 — 광고인 권용욱](https://youtu.be/O_UBxVPLqjA)
@@ -36,7 +37,7 @@
 ## 학력 및 자격 (Education & Certifications)
 
 - 세종대학교 디지털콘텐츠학과 / 신문방송학과 복수전공 졸업 (2006.03 — 2014.02)
-- 연세대학교 언론홍보대학원 광고PR 전공 재학 중 (2021.03 — 현재)
+- 연세대학교 언론홍보대학원 광고PR 전공 석사 졸업 (2021.03 — 2026.08)
 - IAA Diploma (국제광고인자격) — 한국방송광고공사 발행 · 국제광고협회 공인 (2015.03 취득)
 - MOS Master 2007 — Microsoft 발행 (2010.05) / 패션스타일리스트 — 한국직업연구진흥원 (2013.09)
 
