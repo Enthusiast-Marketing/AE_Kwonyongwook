@@ -1,4 +1,4 @@
-# 권용욱 (Kwon Yongwook) — 광고인 · Brand Marketer Portfolio
+# 권용욱 (Kwon Yongwook) — 광고인 · Brand Marketer · GEO Consultant Portfolio
 
 광고인 권용욱은 11년 경력의 브랜드 마케터다. 6개 광고대행사를 거치며 자동차, 가전, FMCG, 게임 등 다양한 카테고리에서 IMC 캠페인과 브랜드 전략을 열정적으로 기획·실행해왔다. 현재 Publicis Groupe Korea에서 Director of Digital Communication으로 재직 중이다.
 
