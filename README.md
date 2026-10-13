@@ -1,6 +1,6 @@
 # 권용욱 (Kwon Yongwook) — 광고인 · Brand Marketer · GEO Consultant Portfolio
 
-광고인 권용욱은 11년 경력의 브랜드 마케터다. 6개 광고대행사를 거치며 자동차, 가전, FMCG, 게임 등 다양한 카테고리에서 IMC 캠페인과 브랜드 전략을 열정적으로 기획·실행해왔다. 현재 Publicis Groupe Korea에서 Director of Digital Communication으로 재직 중이다.
+광고인 권용욱은 11년 경력의 브랜드 마케터다. 6개 광고대행사를 거치며 자동차, 가전, FMCG, 게임 등 다양한 카테고리에서 IMC 캠페인과 브랜드 전략을 열정적으로 기획·실행해왔다. 현재 Publicis Groupe Korea Data Intelligence 소속 Director(Project Manager)로 재직 중이다.
 
 🔗 포트폴리오 전체 보기: [광고인 권용욱 Portfolio](https://enthusiast-marketing.github.io/AE_Kwonyongwook/)
 🌐 English: [Kwon Yongwook Portfolio](https://enthusiast-marketing.github.io/AE_Kwonyongwook/en/)
@@ -16,7 +16,7 @@
 
 | 기간 | 회사 | 직책 | 주요 브랜드 / 업무 |
 |---|---|---|---|
-| 2024.09 — 현재 | Publicis Groupe Korea | Director, Digital Communication | BRITA 코리아 브랜딩 캠페인 기획 리드 · YouTube Works Award 심사위원 · 디지털 통합 캠페인 전략 수립 |
+| 2024.09 — 현재 | Publicis Groupe Korea | Director, Project Manager (Data Intelligence) | BRITA 코리아 브랜딩 캠페인 기획 리드 · YouTube Works Award 심사위원 · 디지털 통합 캠페인 전략 수립 |
 | 2021.06 — 2024.08 | HSAD | CC3팀 책임 | LG전자 H&A 글로벌 캠페인(24개국) · 상쾌환 IMC · 대한민국 디지털광고대상 대상·금상 수상 |
 | 2018.09 — 2021.05 | Leo Burnett Korea | Account Manager | Mercedes-Benz IMC (E-Class, EQ Power PHEV, EQC) · Volkswagen Arteon · Touareg |
 | 2017.05 — 2018.08 | Makeulike | 대리 | 카카오게임즈 디지털 캠페인 · BMW 마이크로사이트 기획 · 미래엔 디지털 캠페인 |
